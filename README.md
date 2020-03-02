@@ -2,6 +2,8 @@
 Here you will see the variety of projects you can find here.
 
 ## [JavaScript](https://github.com/Jkutkut/JavaScript)
+## [Python](https://github.com/Jkutkut/Python)
+## [Java](https://github.com/Jkutkut/Java)
 ## [Shell Script](https://github.com/Jkutkut/Shell-Script)
 ## [Regex](https://github.com/Jkutkut/Regex)
 ## [Geogebra](https://github.com/Jkutkut/Geogebra)
